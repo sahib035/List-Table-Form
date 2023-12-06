@@ -1,0 +1,120 @@
+/* UNORDER LIST */
+/* ul {
+list-style-type: square;} */
+
+/* ORDER LIST */
+
+/* ol{
+list-style-type: upper-alpha;
+} */
+/* image for bullet */
+/* ul{
+list-style-image: url(/images/icons8-apple-logo-24.png);
+}
+li{
+margin: 10px 0px 0px px ;
+} */
+
+/* list style possition */
+/* .illuminations{
+list-style-position: inside;
+}
+.season{
+list-style-position: outside ;
+} */
+
+/* short hand */
+/* ul {
+list-style: inside circle;
+width: 300px;}
+li {
+margin: 10px 0px 0px 0px;} */
+
+/* table properties */
+/* table{
+border-top: 2px solid red;
+width: 500px;
+padding: 20px;
+text-transform: uppercase;
+}
+table,td,th{
+border: 2px solid green;
+border-collapse: collapse;
+text-align: center;
+}
+
+table{
+background-color: aqua;
+}
+
+tr:hover{
+background-color: wheat;
+cursor: pointer;
+}
+td{
+padding: 30px;
+}
+th{
+font-weight: bolder;
+color: blue;
+}
+.even{
+background-color: black;
+color: white;
+} */
+/* empty cells */
+
+/* td {
+border: 1px solid #0088dd;
+padding: 15px;}
+table{
+empty-cells: show;} */
+
+/* gaps between cells */
+/* td {
+background-color: #0088dd;
+padding: 15px;
+border: 2px solid #000000;}
+table {
+border-collapse: collapse;} */
+
+/* STYLING FORM*/
+/* #Email{
+margin-top: 30px;
+} */
+/* input{
+border: 2px solid red;
+border-radius: 10px;
+} */
+/* input:hover{
+background-color: red;
+}
+input:focus{
+background-color: wheat;
+} */
+
+/* #Email{
+background-image: url(/images/email.png);
+background-repeat: no-repeat;
+padding-left: 20px;
+background-size: contain;
+} */
+/* Styling fieldset and legend */
+/* fieldset {
+width: 350px;
+border: 1px solid #dcdcdc;
+border-radius: 10px;
+padding: 20px;
+text-align: right;}
+legend {
+background-color: #efefef;
+border: 1px solid #dcdcdc;
+border-radius: 10px;
+padding: 10px 20px;
+text-align: left;
+text-transform: uppercase;} */
+
+/* CURSER STYLE */
+#submit-btn:hover{
+    cursor: pointer;
+}
